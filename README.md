@@ -39,11 +39,13 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ## Exemplos de Uso
 - Escolha a moeda que deseja converter.
-- ![image](https://github.com/user-attachments/assets/30f018c5-395c-46ed-b570-5a006b2c54d2)
+
+![image](https://github.com/user-attachments/assets/30f018c5-395c-46ed-b570-5a006b2c54d2)
 - Insira o valor em USD ou EUR que deseja converter.
 - Clique no botão correspondente à conversão.
 - O valor convertido será exibido com base na taxa de câmbio atual.
-- ![image](https://github.com/user-attachments/assets/3475cab0-4751-4217-acae-f10fb8166a23)
+
+![image](https://github.com/user-attachments/assets/3475cab0-4751-4217-acae-f10fb8166a23)
 
 
 ##Contribuições
