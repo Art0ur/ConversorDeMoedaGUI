@@ -37,6 +37,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 - **C#**
 - **Windows Forms**
 - **.NET Framework**
+- **Exchangerate API**
 - **Newtonsoft.Json**
 
 ## Exemplos de Uso
