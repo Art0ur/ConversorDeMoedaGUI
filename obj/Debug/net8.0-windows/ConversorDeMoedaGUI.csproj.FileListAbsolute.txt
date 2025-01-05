@@ -15,3 +15,4 @@ C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\refint\ConversorDeMo
 C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.pdb
 C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.genruntimeconfig.cache
 C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ref\ConversorDeMoedaGUI.dll
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.sourcelink.json
