@@ -38,7 +38,6 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 - **.NET Framework**
 
 ## Exemplos de Uso
-- Ao abrir o aplicativo:
 - Insira o valor em USD ou EUR que deseja converter.
 - Clique no botão correspondente à conversão.
 - O valor convertido será exibido com base na taxa de câmbio atual.
@@ -50,5 +49,5 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ## Contato
 Se tiver dúvidas ou sugestões, entre em contato:
 - Nome: Artur Silva
-- Email: [contact.arsilva@gmail.com](contact.arsilva@gmail.com)
-- LinkedIn: [Artur Jefferson](www.linkedin.com/in/arturjefferson)
+- Email: [contact.arsilva@gmail.com](mailto:contact.arsilva@gmail.com)
+- LinkedIn: [Artur Jefferson](https://www.linkedin.com/in/arturjefferson)
