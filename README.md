@@ -51,7 +51,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ![image](https://github.com/user-attachments/assets/3475cab0-4751-4217-acae-f10fb8166a23)
 
 
-##Contribuições
+## Contribuições
 - Contribuições são sempre bem-vindas!
 - Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
 
