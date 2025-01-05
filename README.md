@@ -24,8 +24,9 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 2. ```bash
    cd ConversorDeMoedaGUI
 
-## Restaurar Dependências
+## Restaurar Dependências e Adicionar Pacote Newtonsoft.Json
 3. ```bash
+   dotnet add package Newtonsoft.Json
    dotnet restore
 
 ## Executar o Projeto
@@ -36,6 +37,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 - **C#**
 - **Windows Forms**
 - **.NET Framework**
+- **Newtonsoft.Json**
 
 ## Exemplos de Uso
 - Escolha a moeda que deseja converter.
