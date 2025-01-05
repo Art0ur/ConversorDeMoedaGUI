@@ -1,0 +1,9 @@
+Criar Projeto e acessar
+- dotnet new winforms -n ConversorDeMoedaGUI
+- cd ConversorDeMoedaGUI
+
+Instalar o Pacote Newtonsoft.Json
+- dotnet add package Newtonsoft.Json
+
+Rodar
+- dotnet run

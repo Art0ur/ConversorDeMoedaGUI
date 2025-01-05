@@ -1,0 +1,17 @@
+C:\Users\artur\ConversorDeMoedaGUI\bin\Debug\net8.0-windows\ConversorDeMoedaGUI.exe
+C:\Users\artur\ConversorDeMoedaGUI\bin\Debug\net8.0-windows\ConversorDeMoedaGUI.deps.json
+C:\Users\artur\ConversorDeMoedaGUI\bin\Debug\net8.0-windows\ConversorDeMoedaGUI.runtimeconfig.json
+C:\Users\artur\ConversorDeMoedaGUI\bin\Debug\net8.0-windows\ConversorDeMoedaGUI.dll
+C:\Users\artur\ConversorDeMoedaGUI\bin\Debug\net8.0-windows\ConversorDeMoedaGUI.pdb
+C:\Users\artur\ConversorDeMoedaGUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.csproj.AssemblyReference.cache
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.AssemblyInfoInputs.cache
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.AssemblyInfo.cs
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.csproj.CoreCompileInputs.cache
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\Converso.0A7ED629.Up2Date
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.dll
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\refint\ConversorDeMoedaGUI.dll
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.pdb
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ConversorDeMoedaGUI.genruntimeconfig.cache
+C:\Users\artur\ConversorDeMoedaGUI\obj\Debug\net8.0-windows\ref\ConversorDeMoedaGUI.dll
