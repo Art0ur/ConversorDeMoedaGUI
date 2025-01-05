@@ -19,3 +19,36 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. **Clonar o Repositório**  
    ```bash  
    git clone https://github.com/Art0ur/ConversorDeMoedaGUI.git
+
+## Navegar até o Diretório do Projeto
+2. ```bash
+   cd ConversorDeMoedaGUI
+
+## Restaurar Dependências
+3. ```bash
+   dotnet restore
+
+## Executar o Projeto
+4. ```bash
+   dotnet run
+
+## Tecnologias Utilizadas
+- **C#**
+- **Windows Forms**
+- **.NET Framework**
+
+## Exemplos de Uso
+- Ao abrir o aplicativo:
+- Insira o valor em USD ou EUR que deseja converter.
+- Clique no botão correspondente à conversão.
+- O valor convertido será exibido com base na taxa de câmbio atual.
+
+##Contribuições
+- Contribuições são sempre bem-vindas!
+- Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias.
+
+## Contato
+Se tiver dúvidas ou sugestões, entre em contato:
+- Nome: Artur Silva
+- Email: [contact.arsilva@gmail.com](contact.arsilva@gmail.com)
+- LinkedIn: [Artur Jefferson](www.linkedin.com/in/arturjefferson)
